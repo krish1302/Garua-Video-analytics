@@ -1,0 +1,2 @@
+FLASK_DEBUG=Garuda
+FLASK_ENV=development
